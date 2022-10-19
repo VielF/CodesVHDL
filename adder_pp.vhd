@@ -1,6 +1,6 @@
 ------------------------------------------------
 -- Design: Adder
--- Entity: reg_8bit
+-- Entity: adder_8bit
 -- Author: Felipe Viel
 -- Rev.  : 1.0
 -- Date  : 10/17/2022
